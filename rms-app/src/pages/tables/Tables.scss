@@ -1,0 +1,26 @@
+.tables{
+    padding: 70px 200px;
+    .table-item{
+        width: 125px;
+        height: 125px;
+        background-color: #168DF9;
+        border: none;
+        box-shadow: 1px 1px 4px #333;
+        margin-bottom: 30px;
+        margin-top: 30px;
+        h5{
+            color: white;
+            font-size: 24px;
+        }
+        
+    }
+    .reserved {
+        background-color: #168DF9 ;
+    }
+    .full{
+        background-color: #9B59B6 ;
+    }
+    .empty{
+        background-color: #788994 ;
+    }
+}
